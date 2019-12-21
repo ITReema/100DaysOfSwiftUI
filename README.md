@@ -9,8 +9,8 @@ Days 1-12: Introduction to Swift
 - [x] Day 5 – functions, parameters, and errors
 - [x] Day 6 – closures part one
 - [x] Day 7 – closures part two
-- [ ] Day 8 – structs, properties, and methods
-- [ ] Day 9 – access control, static properties, and laziness
+- [x] Day 8 – structs, properties, and methods
+- [x] Day 9 – access control, static properties, and laziness
 - [ ] Day 10 – classes and inheritance
 - [ ] Day 11 – protocols, extensions, and protocol extensions
 - [ ] Day 12 – optionals, unwrapping, and typecasting
