@@ -11,6 +11,6 @@ Days 1-12: Introduction to Swift
 - [x] Day 7 – closures part two
 - [x] Day 8 – structs, properties, and methods
 - [x] Day 9 – access control, static properties, and laziness
-- [ ] Day 10 – classes and inheritance
+- [x] Day 10 – classes and inheritance
 - [ ] Day 11 – protocols, extensions, and protocol extensions
 - [ ] Day 12 – optionals, unwrapping, and typecasting
