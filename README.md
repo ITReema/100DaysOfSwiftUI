@@ -14,3 +14,8 @@ Days 1-12: Introduction to Swift
 - [x] Day 10 – classes and inheritance
 - [x] Day 11 – protocols, extensions, and protocol extensions
 - [x] Day 12 – optionals, unwrapping, and typecasting
+
+Days 13-15: Consolidation I
+- [ ] Day 13 – Swift review, day one
+- [ ] Day 14 – Swift review, day two
+- [ ] Day 15 – Swift review, day three
