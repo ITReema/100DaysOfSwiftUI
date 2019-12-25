@@ -16,6 +16,6 @@ Days 1-12: Introduction to Swift
 - [x] Day 12 – [optionals, unwrapping, and typecasting](https://www.hackingwithswift.com/100/swiftui/12)
 
 Days 13-15: Consolidation I
-- [ ] Day 13 – Swift review, day one
+- [x] Day 13 – [Swift review, day one](https://www.hackingwithswift.com/100/swiftui/13)
 - [ ] Day 14 – Swift review, day two
 - [ ] Day 15 – Swift review, day three
