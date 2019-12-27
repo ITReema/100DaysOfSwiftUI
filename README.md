@@ -17,5 +17,5 @@ Days 1-12: Introduction to Swift
 
 Days 13-15: Consolidation I
 - [x] Day 13 – [Swift review, day one](https://www.hackingwithswift.com/100/swiftui/13)
-- [ ] Day 14 – Swift review, day two
+- [x] Day 14 – Swift review, day two
 - [ ] Day 15 – Swift review, day three
