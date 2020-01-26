@@ -30,3 +30,6 @@ Days 16-24: Starting SwiftUI
 - [x] Day 22 – [Project 2, part three](https://www.hackingwithswift.com/100/swiftui/22)
 - [x] Day 23 – [Project 3, part one](https://www.hackingwithswift.com/100/swiftui/23)
 - [x] Day 24 – [Project 3, part two](https://www.hackingwithswift.com/100/swiftui/24)
+
+Day 25: Consolidation II
+- [ ] Day 25 – Milestone: Projects 1-3
