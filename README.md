@@ -33,3 +33,14 @@ Days 16-24: Starting SwiftUI
 
 Day 25: Consolidation II
 - [ ] Day 25 – Milestone: Projects 1-3
+
+Days 26-34: Expanding your skills
+- [ ] Day 26 – Project 4, part one
+- [ ] Day 27 – Project 4, part two
+- [ ] Day 28 – Project 4, part three
+- [ ] Day 29 – Project 5, part one
+- [ ] Day 30 – Project 5, part two
+- [ ] Day 31 – Project 5, part three
+- [ ] Day 32 – Project 6, part one
+- [ ] Day 33 – Project 6, part two
+- [ ] Day 34 – Project 6, part three
