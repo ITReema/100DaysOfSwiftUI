@@ -39,6 +39,10 @@ struct ContentView: View {
                             .shadow(color: .black, radius: 2)
                     }
                 }
+                VStack{
+                    Text("score: \(score)" )
+                        .foregroundColor(.white)
+                }
                 Spacer()
             }
         }
