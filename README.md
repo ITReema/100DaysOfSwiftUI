@@ -35,7 +35,7 @@ Day 25: Consolidation II
 - [x] Day 25 – [Milestone: Projects 1-3](https://www.hackingwithswift.com/100/swiftui/25)
 
 Days 26-34: Expanding your skills
-- [ ] Day 26 – Project 4, part one
+- [x] Day 26 – Project 4, part one
 - [ ] Day 27 – Project 4, part two
 - [ ] Day 28 – Project 4, part three
 - [ ] Day 29 – Project 5, part one
