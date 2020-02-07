@@ -37,7 +37,7 @@ Day 25: Consolidation II
 Days 26-34: Expanding your skills
 - [x] Day 26 – Project 4, part one
 - [x] Day 27 – Project 4, part two
-- [ ] Day 28 – Project 4, part three
+- [x] Day 28 – Project 4, part three
 - [ ] Day 29 – Project 5, part one
 - [ ] Day 30 – Project 5, part two
 - [ ] Day 31 – Project 5, part three
