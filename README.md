@@ -43,4 +43,4 @@ Days 26-34: Expanding your skills
 - [x] Day 31 – Project 5, part three
 - [x] Day 32 – Project 6, part one
 - [x] Day 33 – Project 6, part two
-- [ ] Day 34 – Project 6, part three
+- [x] Day 34 – Project 6, part three
