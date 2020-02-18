@@ -35,12 +35,12 @@ Day 25: Consolidation II
 - [x] Day 25 – [Milestone: Projects 1-3](https://www.hackingwithswift.com/100/swiftui/25)
 
 Days 26-34: Expanding your skills
-- [x] Day 26 – Project 4, part one
-- [x] Day 27 – Project 4, part two
-- [x] Day 28 – Project 4, part three
-- [x] Day 29 – Project 5, part one
-- [x] Day 30 – Project 5, part two
-- [x] Day 31 – Project 5, part three
-- [x] Day 32 – Project 6, part one
-- [x] Day 33 – Project 6, part two
-- [x] Day 34 – Project 6, part three
+- [x] Day 26 – [Project 4, part one](https://www.hackingwithswift.com/100/swiftui/26)
+- [x] Day 27 – [Project 4, part two](https://www.hackingwithswift.com/100/swiftui/27)
+- [x] Day 28 – [Project 4, part three](https://www.hackingwithswift.com/100/swiftui/28)
+- [x] Day 29 – [Project 5, part one](https://www.hackingwithswift.com/100/swiftui/29)
+- [x] Day 30 – [Project 5, part two](https://www.hackingwithswift.com/100/swiftui/30)
+- [x] Day 31 – [Project 5, part three](https://www.hackingwithswift.com/100/swiftui/31)
+- [x] Day 32 – [Project 6, part one](https://www.hackingwithswift.com/100/swiftui/32)
+- [x] Day 33 – [Project 6, part two](https://www.hackingwithswift.com/100/swiftui/33)
+- [x] Day 34 – [Project 6, part three](https://www.hackingwithswift.com/100/swiftui/34)
