@@ -44,3 +44,6 @@ Days 26-34: Expanding your skills
 - [x] Day 32 – [Project 6, part one](https://www.hackingwithswift.com/100/swiftui/32)
 - [x] Day 33 – [Project 6, part two](https://www.hackingwithswift.com/100/swiftui/33)
 - [x] Day 34 – [Project 6, part three](https://www.hackingwithswift.com/100/swiftui/34)
+
+Day 35: Consolidation III
+- [ ] Day 35 – Milestone: Projects 4-6
