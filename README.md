@@ -49,7 +49,7 @@ Day 35: Consolidation III
 - [x] Day 35 – [Milestone: Projects 4-6](https://www.hackingwithswift.com/100/swiftui/35)
 
 Days 36-46: Scaling up to bigger apps
-- [ ] Day 36 – Project 7, part one
+- [x] Day 36 – Project 7, part one
 - [ ] Day 37 – Project 7, part two
 - [ ] Day 38 – Project 7, part three
 - [ ] Day 39 – Project 8, part one
