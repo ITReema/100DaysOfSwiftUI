@@ -51,7 +51,7 @@ Day 35: Consolidation III
 Days 36-46: Scaling up to bigger apps
 - [x] Day 36 – Project 7, part one
 - [x] Day 37 – Project 7, part two
-- [ ] Day 38 – Project 7, part three
+- [x] Day 38 – Project 7, part three
 - [ ] Day 39 – Project 8, part one
 - [ ] Day 40 – Project 8, part two
 - [ ] Day 41 – Project 8, part three
