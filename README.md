@@ -49,14 +49,14 @@ Day 35: Consolidation III
 - [x] Day 35 – [Milestone: Projects 4-6](https://www.hackingwithswift.com/100/swiftui/35)
 
 Days 36-46: Scaling up to bigger apps
-- [x] Day 36 – Project 7, part one
-- [x] Day 37 – Project 7, part two
-- [x] Day 38 – Project 7, part three
-- [x] Day 39 – Project 8, part one
-- [x] Day 40 – Project 8, part two
-- [ ] Day 41 – Project 8, part three
-- [ ] Day 42 – Project 8, part four
-- [ ] Day 43 – Project 9, part one
-- [ ] Day 44 – Project 9, part two
-- [ ] Day 45 – Project 9, part three
-- [ ] Day 46 – Project 9, part four
+- [x] Day 36 – [Project 7, part one](https://www.hackingwithswift.com/100/swiftui/36)
+- [x] Day 37 – [Project 7, part two](https://www.hackingwithswift.com/100/swiftui/37)
+- [x] Day 38 – [Project 7, part three](https://www.hackingwithswift.com/100/swiftui/38)
+- [x] Day 39 – [Project 8, part one](https://www.hackingwithswift.com/100/swiftui/39)
+- [x] Day 40 – [Project 8, part two](https://www.hackingwithswift.com/100/swiftui/40)
+- [ ] Day 41 – [Project 8, part three
+- [ ] Day 42 – [Project 8, part four
+- [ ] Day 43 – [Project 9, part one
+- [ ] Day 44 – [Project 9, part two
+- [ ] Day 45 – [Project 9, part three
+- [ ] Day 46 – [Project 9, part four
