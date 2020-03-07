@@ -56,7 +56,7 @@ Days 36-46: Scaling up to bigger apps
 - [x] Day 40 – [Project 8, part two](https://www.hackingwithswift.com/100/swiftui/40)
 - [x] Day 41 – [Project 8, part three](https://www.hackingwithswift.com/100/swiftui/41)
 - [x] Day 42 – [Project 8, part four](https://www.hackingwithswift.com/100/swiftui/42)
-- [ ] Day 43 – [Project 9, part one](https://www.hackingwithswift.com/100/swiftui/43)
+- [x] Day 43 – [Project 9, part one](https://www.hackingwithswift.com/100/swiftui/43)
 - [ ] Day 44 – [Project 9, part two]()
 - [ ] Day 45 – [Project 9, part three]()
 - [ ] Day 46 – [Project 9, part four]()
