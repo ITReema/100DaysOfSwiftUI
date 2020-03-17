@@ -62,5 +62,5 @@ Days 36-46: Scaling up to bigger apps
 - [x] Day 46 – [Project 9, part four](https://www.hackingwithswift.com/100/swiftui/46)
 
 Days 47-48: Consolidation IV
-- [ ] Day 47 – [Milestone: Projects 7-9](https://www.hackingwithswift.com/100/swiftui/47)
+- [x] Day 47 – [Milestone: Projects 7-9](https://www.hackingwithswift.com/100/swiftui/47)
 - [ ] Day 48 – Expanding your horizons
