@@ -64,3 +64,16 @@ Days 36-46: Scaling up to bigger apps
 Days 47-48: Consolidation IV
 - [x] Day 47 – [Milestone: Projects 7-9](https://www.hackingwithswift.com/100/swiftui/47)
 - [x] Day 48 – [Expanding your horizons](https://www.hackingwithswift.com/100/swiftui/48)
+
+- [ ] Days 49-59: Focus on data
+- [ ] Day 49 – Project 10, part one
+- [ ] Day 50 – Project 10, part two
+- [ ] Day 51 – Project 10, part three
+- [ ] Day 52 – Project 10, part four
+- [ ] Day 53 – Project 11, part one
+- [ ] Day 54 – Project 11, part two
+- [ ] Day 55 – Project 11, part three
+- [ ] Day 56 – Project 11, part four
+- [ ] Day 57 – Project 12, part one
+- [ ] Day 58 – Project 12, part two
+- [ ] Day 59 – Project 12, part three
