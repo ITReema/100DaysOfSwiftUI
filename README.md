@@ -67,7 +67,7 @@ Days 47-48: Consolidation IV
 
 Days 49-59: Focus on data
 - [x] Day 49 – [Project 10, part one](https://www.hackingwithswift.com/100/swiftui/49)
-- [ ] Day 50 – [Project 10, part two]()
+- [x] Day 50 – [Project 10, part two]()
 - [ ] Day 51 – [Project 10, part three]()
 - [ ] Day 52 – [Project 10, part four]()
 - [ ] Day 53 – [Project 11, part one]()
