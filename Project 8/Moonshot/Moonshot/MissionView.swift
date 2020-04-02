@@ -13,24 +13,41 @@ struct MissionView: View {
         let role: String
         let astronaut: Astronaut
     }
-    
+
     let mission: Mission
     let astronauts: [CrewMember]
-    
+
+    init(mission: Mission, astronauts: [Astronaut]) {
+        self.mission = mission
+
+        var matches = [CrewMember]()
+
+        for member in mission.crew {
+            if let match = astronauts.first(where: { $0.id == member.name }) {
+                matches.append(CrewMember(role: member.role, astronaut: match))
+            } else {
+                fatalError("Missing \(member)")
+            }
+        }
+
+        self.astronauts = matches
+    }
+
     var body: some View {
         GeometryReader { geometry in
-                ScrollView(.vertical) {
-                    VStack {
-                        Image(self.mission.image)
-                            .resizable()
-                            .scaledToFit()
-                            .frame(maxWidth: geometry.size.width * 0.7)
-                            .padding(.top)
+            ScrollView(.vertical) {
+                VStack {
+                    Image(self.mission.image)
+                        .resizable()
+                        .scaledToFit()
+                        .frame(maxWidth: geometry.size.width * 0.7)
+                        .padding(.top)
 
-                        Text(self.mission.description)
-                            .padding()
-                        
-                        ForEach(self.astronauts, id: \.role) { crewMember in
+                    Text(self.mission.description)
+                        .padding()
+
+                    ForEach(self.astronauts, id: \.role) { crewMember in
+                        NavigationLink(destination: AstronautView(astronaut: crewMember.astronaut)) {
                             HStack {
                                 Image(crewMember.astronaut.id)
                                     .resizable()
@@ -49,27 +66,14 @@ struct MissionView: View {
                             }
                             .padding(.horizontal)
                         }
-
-                        Spacer(minLength: 25)
+                        .buttonStyle(PlainButtonStyle())
                     }
+
+                    Spacer(minLength: 25)
                 }
             }
-            .navigationBarTitle(Text(mission.displayName), displayMode: .inline)
-    }
-    init(mission: Mission, astronauts: [Astronaut]) {
-        self.mission = mission
-
-        var matches = [CrewMember]()
-
-        for member in mission.crew {
-            if let match = astronauts.first(where: { $0.id == member.name }) {
-                matches.append(CrewMember(role: member.role, astronaut: match))
-            } else {
-                fatalError("Missing \(member)")
-            }
         }
-
-        self.astronauts = matches
+        .navigationBarTitle(Text(mission.displayName), displayMode: .inline)
     }
 }
 
