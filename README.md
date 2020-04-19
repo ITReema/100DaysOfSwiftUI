@@ -75,5 +75,5 @@ Days 49-59: Focus on data
 - [x] Day 55 – [Project 11, part three](https://www.hackingwithswift.com/100/swiftui/55)
 - [x] Day 56 – [Project 11, part four](https://www.hackingwithswift.com/100/swiftui/56)
 - [x] Day 57 – [Project 12, part one](https://www.hackingwithswift.com/100/swiftui/57)
-- [ ] Day 58 – [Project 12, part two]()
+- [x] Day 58 – [Project 12, part two](https://www.hackingwithswift.com/100/swiftui/58)
 - [ ] Day 59 – [Project 12, part three]()
