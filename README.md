@@ -94,3 +94,37 @@ Days 62-76: Views and view controllers
 - [ ] Day 74 – [Project 15, part one]()
 - [ ] Day 75 – [Project 15, part two]()
 - [ ] Day 76 – [Project 15, part three]()
+
+Days 77-78: Consolidation VI
+- [ ] Day 77 – [Milestone: Projects 13-15]()
+- [ ] Day 78 – [Time for MapKit]()
+
+Days 79-94: Controlling UI flow
+- [ ] Day 79 – [Project 16, part one]()
+- [ ] Day 80 – [Project 16, part two]()
+- [ ] Day 81 – [Project 16, part three]()
+- [ ] Day 82 – [Project 16, part four]()
+- [ ] Day 83 – [Project 16, part five]()
+- [ ] Day 84 – [Project 16, part six]()
+- [ ] Day 85 – [Project 16, part seven]()
+- [ ] Day 86 – [Project 17, part one]()
+- [ ] Day 87 – [Project 17, part two]()
+- [ ] Day 88 – [Project 17, part three]()
+- [ ] Day 89 – [Project 17, part four]()
+- [ ] Day 90 – [Project 17, part five]()
+- [ ] Day 91 – [Project 17, part six]()
+- [ ] Day 92 – [Project 18, part one]()
+- [ ] Day 93 – [Project 18, part two]()
+- [ ] Day 94 – [Project 18, part three]()
+
+Days 95: Consolidation VII
+- [ ] Day 95 – [Milestone: Projects 16-18]()
+
+Days 96-99: One last project
+- [ ] Day 96 – [Project 19, part one]()
+- [ ] Day 97 – [Project 19, part two]()
+- [ ] Day 98 – [Project 19, part three]()
+- [ ] Day 99 – [Project 19, part four]()
+
+Day 100: Wrap up
+- [ ] Day 100 – [Final exam]()
