@@ -79,12 +79,12 @@ Days 49-59: Focus on data
 - [x] Day 59 – [Project 12, part three](https://www.hackingwithswift.com/100/swiftui/59)
 
 Days 62-76: Views and view controllers
-- [ ] Day 62 – [Project 13, part one]()
-- [ ] Day 63 – [Project 13, part two]()
-- [ ] Day 64 – [Project 13, part three]()
-- [ ] Day 65 – [Project 13, part four]()
-- [ ] Day 66 – [Project 13, part five]()
-- [ ] Day 67 – [Project 13, part six]()
+- [ ] Day 62 – [Project 13, part one](https://www.hackingwithswift.com/100/swiftui/60)
+- [ ] Day 63 – [Project 13, part two](https://www.hackingwithswift.com/100/swiftui/61)
+- [ ] Day 64 – [Project 13, part three](https://www.hackingwithswift.com/100/swiftui/62)
+- [ ] Day 65 – [Project 13, part four](https://www.hackingwithswift.com/100/swiftui/64)
+- [ ] Day 66 – [Project 13, part five](https://www.hackingwithswift.com/100/swiftui/65)
+- [ ] Day 67 – [Project 13, part six](https://www.hackingwithswift.com/100/swiftui/66)
 - [ ] Day 68 – [Project 14, part one]()
 - [ ] Day 69 – [Project 14, part two]()
 - [ ] Day 70 – [Project 14, part three]()
