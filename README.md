@@ -78,6 +78,10 @@ Days 49-59: Focus on data
 - [x] Day 58 – [Project 12, part two](https://www.hackingwithswift.com/100/swiftui/58)
 - [x] Day 59 – [Project 12, part three](https://www.hackingwithswift.com/100/swiftui/59)
 
+Days 60-61: Consolidation V
+- [ ] Day 60 – [Milestone: Projects 10-12]()
+- [ ] Day 61 – [Time for Core Data]()
+
 Days 62-76: Views and view controllers
 - [ ] Day 62 – [Project 13, part one](https://www.hackingwithswift.com/100/swiftui/60)
 - [ ] Day 63 – [Project 13, part two](https://www.hackingwithswift.com/100/swiftui/61)
