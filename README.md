@@ -83,7 +83,7 @@ Days 60-61: Consolidation V
 - [x] Day 61 – [Time for Core Data](https://www.hackingwithswift.com/100/swiftui/61)
 
 Days 62-76: Views and view controllers
-- [ ] Day 62 – [Project 13, part one](https://www.hackingwithswift.com/100/swiftui/62)
+- [x] Day 62 – [Project 13, part one](https://www.hackingwithswift.com/100/swiftui/62)
 - [ ] Day 63 – [Project 13, part two](https://www.hackingwithswift.com/100/swiftui/63)
 - [ ] Day 64 – [Project 13, part three](https://www.hackingwithswift.com/100/swiftui/64)
 - [ ] Day 65 – [Project 13, part four](https://www.hackingwithswift.com/100/swiftui/65)
