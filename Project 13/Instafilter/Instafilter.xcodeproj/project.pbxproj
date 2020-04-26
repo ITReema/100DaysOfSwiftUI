@@ -14,6 +14,7 @@
 		872E350C2453ABF2004BA3A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 872E350B2453ABF2004BA3A4 /* Assets.xcassets */; };
 		872E350F2453ABF2004BA3A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 872E350E2453ABF2004BA3A4 /* Preview Assets.xcassets */; };
 		872E35122453ABF2004BA3A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 872E35102453ABF2004BA3A4 /* LaunchScreen.storyboard */; };
+		8754915C245619FE0080D821 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8754915B245619FE0080D821 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		872E350E2453ABF2004BA3A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		872E35112453ABF2004BA3A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		872E35132453ABF2004BA3A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8754915B245619FE0080D821 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				872E35022453ABF0004BA3A4 /* AppDelegate.swift */,
 				872E35042453ABF0004BA3A4 /* SceneDelegate.swift */,
 				872E35092453ABF0004BA3A4 /* ContentView.swift */,
+				8754915B245619FE0080D821 /* ImagePicker.swift */,
 				872E350B2453ABF2004BA3A4 /* Assets.xcassets */,
 				872E35102453ABF2004BA3A4 /* LaunchScreen.storyboard */,
 				872E35132453ABF2004BA3A4 /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				872E35082453ABF0004BA3A4 /* Instafilter.xcdatamodeld in Sources */,
 				872E35032453ABF0004BA3A4 /* AppDelegate.swift in Sources */,
+				8754915C245619FE0080D821 /* ImagePicker.swift in Sources */,
 				872E350A2453ABF0004BA3A4 /* ContentView.swift in Sources */,
 				872E35052453ABF0004BA3A4 /* SceneDelegate.swift in Sources */,
 			);
