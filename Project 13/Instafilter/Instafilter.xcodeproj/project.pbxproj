@@ -7,29 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		871519ED245CA8F0005A2026 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871519EC245CA8F0005A2026 /* ImagePicker.swift */; };
-		872E35032453ABF0004BA3A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872E35022453ABF0004BA3A4 /* AppDelegate.swift */; };
-		872E35052453ABF0004BA3A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872E35042453ABF0004BA3A4 /* SceneDelegate.swift */; };
-		872E350A2453ABF0004BA3A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872E35092453ABF0004BA3A4 /* ContentView.swift */; };
-		872E350C2453ABF2004BA3A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 872E350B2453ABF2004BA3A4 /* Assets.xcassets */; };
-		872E350F2453ABF2004BA3A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 872E350E2453ABF2004BA3A4 /* Preview Assets.xcassets */; };
-		872E35122453ABF2004BA3A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 872E35102453ABF2004BA3A4 /* LaunchScreen.storyboard */; };
+		87715B40245F61F80043536E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87715B3F245F61F80043536E /* AppDelegate.swift */; };
+		87715B42245F61F80043536E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87715B41245F61F80043536E /* SceneDelegate.swift */; };
+		87715B44245F61F80043536E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87715B43245F61F80043536E /* ContentView.swift */; };
+		87715B46245F61FB0043536E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87715B45245F61FB0043536E /* Assets.xcassets */; };
+		87715B49245F61FB0043536E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87715B48245F61FB0043536E /* Preview Assets.xcassets */; };
+		87715B4C245F61FB0043536E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87715B4A245F61FB0043536E /* LaunchScreen.storyboard */; };
+		87715B54245F62AA0043536E /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87715B53245F62AA0043536E /* ImageSaver.swift */; };
+		87715B56245F62C90043536E /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87715B55245F62C90043536E /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		871519EC245CA8F0005A2026 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
-		872E34FF2453ABF0004BA3A4 /* Instafilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instafilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		872E35022453ABF0004BA3A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		872E35042453ABF0004BA3A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		872E35092453ABF0004BA3A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		872E350B2453ABF2004BA3A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		872E350E2453ABF2004BA3A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		872E35112453ABF2004BA3A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		872E35132453ABF2004BA3A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87715B3C245F61F80043536E /* Instafilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instafilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		87715B3F245F61F80043536E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		87715B41245F61F80043536E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		87715B43245F61F80043536E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		87715B45245F61FB0043536E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		87715B48245F61FB0043536E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		87715B4B245F61FB0043536E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		87715B4D245F61FB0043536E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87715B53245F62AA0043536E /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
+		87715B55245F62C90043536E /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		872E34FC2453ABF0004BA3A4 /* Frameworks */ = {
+		87715B39245F61F80043536E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,41 +41,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		872E34F62453ABF0004BA3A4 = {
+		87715B33245F61F80043536E = {
 			isa = PBXGroup;
 			children = (
-				872E35012453ABF0004BA3A4 /* Instafilter */,
-				872E35002453ABF0004BA3A4 /* Products */,
+				87715B3E245F61F80043536E /* Instafilter */,
+				87715B3D245F61F80043536E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		872E35002453ABF0004BA3A4 /* Products */ = {
+		87715B3D245F61F80043536E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				872E34FF2453ABF0004BA3A4 /* Instafilter.app */,
+				87715B3C245F61F80043536E /* Instafilter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		872E35012453ABF0004BA3A4 /* Instafilter */ = {
+		87715B3E245F61F80043536E /* Instafilter */ = {
 			isa = PBXGroup;
 			children = (
-				872E35022453ABF0004BA3A4 /* AppDelegate.swift */,
-				872E35042453ABF0004BA3A4 /* SceneDelegate.swift */,
-				872E35092453ABF0004BA3A4 /* ContentView.swift */,
-				871519EC245CA8F0005A2026 /* ImagePicker.swift */,
-				872E350B2453ABF2004BA3A4 /* Assets.xcassets */,
-				872E35102453ABF2004BA3A4 /* LaunchScreen.storyboard */,
-				872E35132453ABF2004BA3A4 /* Info.plist */,
-				872E350D2453ABF2004BA3A4 /* Preview Content */,
+				87715B3F245F61F80043536E /* AppDelegate.swift */,
+				87715B41245F61F80043536E /* SceneDelegate.swift */,
+				87715B43245F61F80043536E /* ContentView.swift */,
+				87715B53245F62AA0043536E /* ImageSaver.swift */,
+				87715B45245F61FB0043536E /* Assets.xcassets */,
+				87715B4A245F61FB0043536E /* LaunchScreen.storyboard */,
+				87715B55245F62C90043536E /* ImagePicker.swift */,
+				87715B4D245F61FB0043536E /* Info.plist */,
+				87715B47245F61FB0043536E /* Preview Content */,
 			);
 			path = Instafilter;
 			sourceTree = "<group>";
 		};
-		872E350D2453ABF2004BA3A4 /* Preview Content */ = {
+		87715B47245F61FB0043536E /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				872E350E2453ABF2004BA3A4 /* Preview Assets.xcassets */,
+				87715B48245F61FB0043536E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -81,13 +84,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		872E34FE2453ABF0004BA3A4 /* Instafilter */ = {
+		87715B3B245F61F80043536E /* Instafilter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 872E35162453ABF2004BA3A4 /* Build configuration list for PBXNativeTarget "Instafilter" */;
+			buildConfigurationList = 87715B50245F61FB0043536E /* Build configuration list for PBXNativeTarget "Instafilter" */;
 			buildPhases = (
-				872E34FB2453ABF0004BA3A4 /* Sources */,
-				872E34FC2453ABF0004BA3A4 /* Frameworks */,
-				872E34FD2453ABF0004BA3A4 /* Resources */,
+				87715B38245F61F80043536E /* Sources */,
+				87715B39245F61F80043536E /* Frameworks */,
+				87715B3A245F61F80043536E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -95,25 +98,25 @@
 			);
 			name = Instafilter;
 			productName = Instafilter;
-			productReference = 872E34FF2453ABF0004BA3A4 /* Instafilter.app */;
+			productReference = 87715B3C245F61F80043536E /* Instafilter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		872E34F72453ABF0004BA3A4 /* Project object */ = {
+		87715B34245F61F80043536E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = Reema;
 				TargetAttributes = {
-					872E34FE2453ABF0004BA3A4 = {
+					87715B3B245F61F80043536E = {
 						CreatedOnToolsVersion = 11.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 872E34FA2453ABF0004BA3A4 /* Build configuration list for PBXProject "Instafilter" */;
+			buildConfigurationList = 87715B37245F61F80043536E /* Build configuration list for PBXProject "Instafilter" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,48 +124,49 @@
 				en,
 				Base,
 			);
-			mainGroup = 872E34F62453ABF0004BA3A4;
-			productRefGroup = 872E35002453ABF0004BA3A4 /* Products */;
+			mainGroup = 87715B33245F61F80043536E;
+			productRefGroup = 87715B3D245F61F80043536E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				872E34FE2453ABF0004BA3A4 /* Instafilter */,
+				87715B3B245F61F80043536E /* Instafilter */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		872E34FD2453ABF0004BA3A4 /* Resources */ = {
+		87715B3A245F61F80043536E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				872E35122453ABF2004BA3A4 /* LaunchScreen.storyboard in Resources */,
-				872E350F2453ABF2004BA3A4 /* Preview Assets.xcassets in Resources */,
-				872E350C2453ABF2004BA3A4 /* Assets.xcassets in Resources */,
+				87715B4C245F61FB0043536E /* LaunchScreen.storyboard in Resources */,
+				87715B49245F61FB0043536E /* Preview Assets.xcassets in Resources */,
+				87715B46245F61FB0043536E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		872E34FB2453ABF0004BA3A4 /* Sources */ = {
+		87715B38245F61F80043536E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				872E35032453ABF0004BA3A4 /* AppDelegate.swift in Sources */,
-				871519ED245CA8F0005A2026 /* ImagePicker.swift in Sources */,
-				872E350A2453ABF0004BA3A4 /* ContentView.swift in Sources */,
-				872E35052453ABF0004BA3A4 /* SceneDelegate.swift in Sources */,
+				87715B40245F61F80043536E /* AppDelegate.swift in Sources */,
+				87715B42245F61F80043536E /* SceneDelegate.swift in Sources */,
+				87715B56245F62C90043536E /* ImagePicker.swift in Sources */,
+				87715B44245F61F80043536E /* ContentView.swift in Sources */,
+				87715B54245F62AA0043536E /* ImageSaver.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		872E35102453ABF2004BA3A4 /* LaunchScreen.storyboard */ = {
+		87715B4A245F61FB0043536E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				872E35112453ABF2004BA3A4 /* Base */,
+				87715B4B245F61FB0043536E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		872E35142453ABF2004BA3A4 /* Debug */ = {
+		87715B4E245F61FB0043536E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +234,7 @@
 			};
 			name = Debug;
 		};
-		872E35152453ABF2004BA3A4 /* Release */ = {
+		87715B4F245F61FB0043536E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,7 +288,7 @@
 			};
 			name = Release;
 		};
-		872E35172453ABF2004BA3A4 /* Debug */ = {
+		87715B51245F61FB0043536E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -304,7 +308,7 @@
 			};
 			name = Debug;
 		};
-		872E35182453ABF2004BA3A4 /* Release */ = {
+		87715B52245F61FB0043536E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -327,25 +331,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		872E34FA2453ABF0004BA3A4 /* Build configuration list for PBXProject "Instafilter" */ = {
+		87715B37245F61F80043536E /* Build configuration list for PBXProject "Instafilter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				872E35142453ABF2004BA3A4 /* Debug */,
-				872E35152453ABF2004BA3A4 /* Release */,
+				87715B4E245F61FB0043536E /* Debug */,
+				87715B4F245F61FB0043536E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		872E35162453ABF2004BA3A4 /* Build configuration list for PBXNativeTarget "Instafilter" */ = {
+		87715B50245F61FB0043536E /* Build configuration list for PBXNativeTarget "Instafilter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				872E35172453ABF2004BA3A4 /* Debug */,
-				872E35182453ABF2004BA3A4 /* Release */,
+				87715B51245F61FB0043536E /* Debug */,
+				87715B52245F61FB0043536E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 872E34F72453ABF0004BA3A4 /* Project object */;
+	rootObject = 87715B34245F61F80043536E /* Project object */;
 }
