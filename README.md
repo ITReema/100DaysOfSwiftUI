@@ -94,7 +94,7 @@ Days 62-76: Views and view controllers
 - [x] Day 70 – [Project 14, part three](https://www.hackingwithswift.com/100/swiftui/70)
 - [x] Day 71 – [Project 14, part four](https://www.hackingwithswift.com/100/swiftui/71)
 - [x] Day 72 – [Project 14, part five](https://www.hackingwithswift.com/100/swiftui/72)
-- [ ] Day 73 – [Project 14, part six](https://www.hackingwithswift.com/100/swiftui/73)
+- [x] Day 73 – [Project 14, part six](https://www.hackingwithswift.com/100/swiftui/73)
 - [ ] Day 74 – [Project 15, part one](https://www.hackingwithswift.com/100/swiftui/74)
 - [ ] Day 75 – [Project 15, part two](https://www.hackingwithswift.com/100/swiftui/75)
 - [ ] Day 76 – [Project 15, part three](https://www.hackingwithswift.com/100/swiftui/76)
