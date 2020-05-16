@@ -97,7 +97,7 @@ Days 62-76: Views and view controllers
 - [x] Day 73 – [Project 14, part six](https://www.hackingwithswift.com/100/swiftui/73)
 - [x] Day 74 – [Project 15, part one](https://www.hackingwithswift.com/100/swiftui/74)
 - [x] Day 75 – [Project 15, part two](https://www.hackingwithswift.com/100/swiftui/75)
-- [ ] Day 76 – [Project 15, part three](https://www.hackingwithswift.com/100/swiftui/76)
+- [x] Day 76 – [Project 15, part three](https://www.hackingwithswift.com/100/swiftui/76)
 
 Days 77-78: Consolidation VI
 - [ ] Day 77 – [Milestone: Projects 13-15]()
