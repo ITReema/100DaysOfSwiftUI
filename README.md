@@ -100,7 +100,7 @@ Days 62-76: Views and view controllers
 - [x] Day 76 – [Project 15, part three](https://www.hackingwithswift.com/100/swiftui/76)
 
 Days 77-78: Consolidation VI
-- [ ] Day 77 – [Milestone: Projects 13-15]()
+- [x] Day 77 – [Milestone: Projects 13-15]()
 - [ ] Day 78 – [Time for MapKit]()
 
 Days 79-94: Controlling UI flow
