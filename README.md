@@ -101,7 +101,7 @@ Days 62-76: Views and view controllers
 
 Days 77-78: Consolidation VI
 - [x] Day 77 – [Milestone: Projects 13-15]()
-- [ ] Day 78 – [Time for MapKit]()
+- [x] Day 78 – [Time for MapKit]()
 
 Days 79-94: Controlling UI flow
 - [ ] Day 79 – [Project 16, part one]()
