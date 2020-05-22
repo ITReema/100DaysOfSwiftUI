@@ -104,7 +104,7 @@ Days 77-78: Consolidation VI
 - [x] Day 78 – [Time for MapKit]()
 
 Days 79-94: Controlling UI flow
-- [ ] Day 79 – [Project 16, part one]()
+- [x] Day 79 – [Project 16, part one]()
 - [ ] Day 80 – [Project 16, part two]()
 - [ ] Day 81 – [Project 16, part three]()
 - [ ] Day 82 – [Project 16, part four]()
