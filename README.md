@@ -105,7 +105,7 @@ Days 77-78: Consolidation VI
 
 Days 79-94: Controlling UI flow
 - [x] Day 79 – [Project 16, part one]()
-- [ ] Day 80 – [Project 16, part two]()
+- [x] Day 80 – [Project 16, part two]()
 - [ ] Day 81 – [Project 16, part three]()
 - [ ] Day 82 – [Project 16, part four]()
 - [ ] Day 83 – [Project 16, part five]()
