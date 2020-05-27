@@ -108,7 +108,7 @@ Days 79-94: Controlling UI flow
 - [x] Day 80 – [Project 16, part two]()
 - [x] Day 81 – [Project 16, part three]()
 - [x] Day 82 – [Project 16, part four]()
-- [ ] Day 83 – [Project 16, part five]()
+- [x] Day 83 – [Project 16, part five]()
 - [ ] Day 84 – [Project 16, part six]()
 - [ ] Day 85 – [Project 16, part seven]()
 - [ ] Day 86 – [Project 17, part one]()
