@@ -43,7 +43,6 @@ struct ContentView: View {
     func addNewWord() {
         // lowercase and trim the word, to make sure we don't add duplicate words with case differences
         let answer = newWord.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
-
         // exit if the remaining string is empty
         guard answer.count > 0 else {
             return
@@ -76,10 +75,8 @@ struct ContentView: View {
             if let startWords = try? String(contentsOf: startWordsURL) {
                 // 3. Split the string up into an array of strings, splitting on line breaks
                 let allWords = startWords.components(separatedBy: "\n")
-
                 // 4. Pick one random word, or use "silkworm" as a sensible default
                 rootWord = allWords.randomElement() ?? "silkworm"
-
                 // If we are here everything has worked, so we can exit
                 return
             }
