@@ -113,7 +113,7 @@ Days 79-94: Controlling UI flow
 - [x] Day 85 – [Project 16, part seven](https://www.hackingwithswift.com/100/swiftui/85)
 - [x] Day 86 – [Project 17, part one](https://www.hackingwithswift.com/100/swiftui/86)
 - [x] Day 87 – [Project 17, part two](https://www.hackingwithswift.com/100/swiftui/87)
-- [ ] Day 88 – [Project 17, part three]()
+- [x] Day 88 – [Project 17, part three]()
 - [ ] Day 89 – [Project 17, part four]()
 - [ ] Day 90 – [Project 17, part five]()
 - [ ] Day 91 – [Project 17, part six]()
