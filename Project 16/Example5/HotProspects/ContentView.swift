@@ -10,7 +10,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("")
+        Image("example")
+        .interpolation(.none)
+        .resizable()
+        .scaledToFit()
+        .frame(maxHeight: .infinity)
+        .background(Color.black)
+        .edgesIgnoringSafeArea(.all)
     }
 }
 
