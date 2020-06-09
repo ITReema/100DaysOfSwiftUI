@@ -13,6 +13,8 @@
 		87CB41A9248CC47E00B8D345 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87CB41A8248CC47E00B8D345 /* Assets.xcassets */; };
 		87CB41AC248CC47E00B8D345 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87CB41AB248CC47E00B8D345 /* Preview Assets.xcassets */; };
 		87CB41AF248CC47E00B8D345 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87CB41AD248CC47E00B8D345 /* LaunchScreen.storyboard */; };
+		87F74925248F439F00DDE689 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F74924248F439F00DDE689 /* Card.swift */; };
+		87F74927248F448500DDE689 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F74926248F448500DDE689 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		87CB41AB248CC47E00B8D345 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		87CB41AE248CC47E00B8D345 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87CB41B0248CC47E00B8D345 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87F74924248F439F00DDE689 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		87F74926248F448500DDE689 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				87CB41A2248CC47B00B8D345 /* AppDelegate.swift */,
 				87CB41A4248CC47B00B8D345 /* SceneDelegate.swift */,
 				87CB41A6248CC47B00B8D345 /* ContentView.swift */,
+				87F74926248F448500DDE689 /* CardView.swift */,
+				87F74924248F439F00DDE689 /* Card.swift */,
 				87CB41A8248CC47E00B8D345 /* Assets.xcassets */,
 				87CB41AD248CC47E00B8D345 /* LaunchScreen.storyboard */,
 				87CB41B0248CC47E00B8D345 /* Info.plist */,
@@ -149,6 +155,8 @@
 				87CB41A3248CC47B00B8D345 /* AppDelegate.swift in Sources */,
 				87CB41A5248CC47B00B8D345 /* SceneDelegate.swift in Sources */,
 				87CB41A7248CC47B00B8D345 /* ContentView.swift in Sources */,
+				87F74925248F439F00DDE689 /* Card.swift in Sources */,
+				87F74927248F448500DDE689 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
