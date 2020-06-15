@@ -117,18 +117,18 @@ Days 79-94: Controlling UI flow
 - [x] Day 89 – [Project 17, part four](https://www.hackingwithswift.com/100/swiftui/89)
 - [x] Day 90 – [Project 17, part five](https://www.hackingwithswift.com/100/swiftui/90)
 - [x] Day 91 – [Project 17, part six](https://www.hackingwithswift.com/100/swiftui/91)
-- [x] Day 92 – [Project 18, part one]()
-- [ ] Day 93 – [Project 18, part two]()
-- [ ] Day 94 – [Project 18, part three]()
+- [x] Day 92 – [Project 18, part one](https://www.hackingwithswift.com/100/swiftui/92)
+- [x] Day 93 – [Project 18, part two](https://www.hackingwithswift.com/100/swiftui/93)
+- [x] Day 94 – [Project 18, part three](https://www.hackingwithswift.com/100/swiftui/94)
 
 Days 95: Consolidation VII
-- [ ] Day 95 – [Milestone: Projects 16-18]()
+- [x] Day 95 – [Milestone: Projects 16-18](https://www.hackingwithswift.com/100/swiftui/95)
 
 Days 96-99: One last project
-- [ ] Day 96 – [Project 19, part one]()
-- [ ] Day 97 – [Project 19, part two]()
-- [ ] Day 98 – [Project 19, part three]()
-- [ ] Day 99 – [Project 19, part four]()
+- [ ] Day 96 – [Project 19, part one](https://www.hackingwithswift.com/100/swiftui/96)
+- [ ] Day 97 – [Project 19, part two](https://www.hackingwithswift.com/100/swiftui/97)
+- [ ] Day 98 – [Project 19, part three](https://www.hackingwithswift.com/100/swiftui/98)
+- [ ] Day 99 – [Project 19, part four](https://www.hackingwithswift.com/100/swiftui/99)
 
 Day 100: Wrap up
-- [ ] Day 100 – [Final exam]()
+- [ ] Day 100 – [Final exam](https://www.hackingwithswift.com/100/swiftui/100)
