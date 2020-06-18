@@ -126,7 +126,7 @@ Days 95: Consolidation VII
 
 Days 96-99: One last project
 - [x] Day 96 – [Project 19, part one](https://www.hackingwithswift.com/100/swiftui/96)
-- [ ] Day 97 – [Project 19, part two](https://www.hackingwithswift.com/100/swiftui/97)
+- [x] Day 97 – [Project 19, part two](https://www.hackingwithswift.com/100/swiftui/97)
 - [ ] Day 98 – [Project 19, part three](https://www.hackingwithswift.com/100/swiftui/98)
 - [ ] Day 99 – [Project 19, part four](https://www.hackingwithswift.com/100/swiftui/99)
 
