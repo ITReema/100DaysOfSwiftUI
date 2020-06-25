@@ -8,8 +8,21 @@
 
 import SwiftUI
 
+extension View {
+    func phoneOnlyStackNavigationView() -> some View {
+        if UIDevice.current.userInterfaceIdiom == .phone {
+            return AnyView(self.navigationViewStyle(StackNavigationViewStyle()))
+        } else {
+            return AnyView(self)
+        }
+    }
+}
+
 struct ContentView: View {
     let resorts: [Resort] = Bundle.main.decode("resorts.json")
+
+    @ObservedObject var favorites = Favorites()
+
     var body: some View {
         NavigationView {
             List(resorts) { resort in
@@ -32,21 +45,21 @@ struct ContentView: View {
                         Text("\(resort.runs) runs")
                             .foregroundColor(.secondary)
                     }
+                    .layoutPriority(1)
+
+                    if self.favorites.contains(resort) {
+                        Spacer()
+                        Image(systemName: "heart.fill")
+                        .accessibility(label: Text("This is a favorite resort"))
+                            .foregroundColor(.red)
+                    }
                 }
             }
             .navigationBarTitle("Resorts")
+
             WelcomeView()
         }
-    }
-}
-
-extension View {
-    func phoneOnlyStackNavigationView() -> some View {
-        if UIDevice.current.userInterfaceIdiom == .phone {
-            return AnyView(self.navigationViewStyle(StackNavigationViewStyle()))
-        } else {
-            return AnyView(self)
-        }
+        .environmentObject(favorites)
     }
 }
 
